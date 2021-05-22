@@ -17,7 +17,7 @@ produced	VBD	produce	VB	produce
 no	AT	no	RB	No	AT-HL	No	AT-TL	no
 evidence	NN	evidence
 ''	''	''
-that	CS	that	WPS	that	CST	that	DT	that	QL	that	WPR	that
+that	CS	that	WPS	that	CJT	that	DT	that	QL	that	WPR	that
 any	DTI	any
 irregularities	NNS	irregularity
 took	VBD	take	VB	takes	VBZ	taken	VBN	taking	VBG	take
